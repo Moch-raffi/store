@@ -18,7 +18,7 @@
     overflow: hidden;
 }
 .card img{
-    width: 100%;
+    width: 50;
     display:block;
     height: 50%;
 }
